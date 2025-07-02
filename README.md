@@ -1,5 +1,3 @@
-
-
 <div align="center" style="font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; font-size: 16px; line-height: 1.8; color: #333;">
   <h1 style="color:#FF69B4; font-weight:bold;">🌸Heya! I'm Saloni Mahajan🌸</h1>
   <p>

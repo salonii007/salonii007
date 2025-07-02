@@ -2,7 +2,7 @@
   <h1 style="color:#FF69B4; font-weight:bold;">🌸Heya! I'm Saloni Mahajan🌸</h1>
   <p>
    A passionate <strong>MERN Stack Web Developer</strong> who loves turning ideas into beautifully functional web apps.🚀<br>
-    I vibe with <em>clean design</em>, <em>logical flow</em>, and building stuff that actually makes sense (and looks good too).<br>
+    I vibe with <clean design, logical flow, and building stuff that actually makes sense (and looks good too).<br>
     I bring both tech brains and a creative soul to the table💫 <br><br>
     <span style="font-style: italic;">Ps: Every bug has a story (and a fix!)</span><br>
     <span style="font-style: italic;">Forever ready to code, collab, and cook up ideas that do something cool❤️</span>

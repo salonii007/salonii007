@@ -1,13 +1,13 @@
 
 
 <div align="center" style="font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; font-size: 16px; line-height: 1.8; color: #333;">
-  <h1 style="color:#FF69B4; font-weight:bold;">Heya! I'm Saloni Mahajan 🌸</h1>
+  <h1 style="color:#FF69B4; font-weight:bold;">🌸Heya! I'm Saloni Mahajan🌸</h1>
   <p>
-    A passionate <strong>MERN Stack Web Developer</strong> who loves turning ideas into beautifully functional web apps.<br>
+   A passionate <strong>MERN Stack Web Developer</strong> who loves turning ideas into beautifully functional web apps.🚀<br>
     I vibe with <em>clean design</em>, <em>logical flow</em>, and building stuff that actually makes sense (and looks good too).<br>
-    I bring both tech brains and a creative soul to the table. <br><br>
+    I bring both tech brains and a creative soul to the table💫 <br><br>
     <span style="font-style: italic;">Ps: Every bug has a story (and a fix!)</span><br>
-    <span style="font-style: italic;">Forever ready to code, collab, and cook up ideas that actually do something cool. &lt;3</span>
+    <span style="font-style: italic;">Forever ready to code, collab, and cook up ideas that actually do something cool❤️</span>
   </p>
 </div>
 
@@ -79,7 +79,10 @@
     <img src="https://cdn-icons-png.flaticon.com/512/732/732200.png" alt="Email" width="35"/>
   </a>
 </p>
+
 ---
+
+###
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=salonii007&label=Profile%20views&color=ff69b4&style=flat" alt="salonii007" />

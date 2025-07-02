@@ -46,32 +46,39 @@
 ### 🤝 Connect with Me:
 
 <p align="center">
+
   <a href="https://linkedin.com/in/salonimahajan007" target="_blank">
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v15/icons/linkedin.svg" alt="LinkedIn" width="30"/>
+    <img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" alt="LinkedIn" width="35"/>
   </a> &nbsp;&nbsp;
+
   <a href="https://www.leetcode.com/salonii_007_" target="_blank">
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v15/icons/leetcode.svg" alt="LeetCode" width="30"/>
+    <img src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" alt="LeetCode" width="35"/>
   </a> &nbsp;&nbsp;
+
   <a href="https://www.geeksforgeeks.org/user/salonii007/" target="_blank">
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v15/icons/geeksforgeeks.svg" alt="GFG" width="30"/>
+    <img src="https://upload.wikimedia.org/wikipedia/commons/4/43/GeeksforGeeks.svg" alt="GeeksforGeeks" width="35"/>
   </a> &nbsp;&nbsp;
+
   <a href="https://www.codechef.com/users/saloni007mahaj" target="_blank">
-    <img src="https://cdnjs.cloudflare.com/ajax/libs/simple-icons/3.2.0/codechef.svg" alt="CodeChef" width="30"/>
+    <img src="https://cdn.codechef.com/sites/default/files/uploads/pictures/5812d20b671d9-textlogo.png" alt="CodeChef" width="35"/>
   </a> &nbsp;&nbsp;
+
   <a href="https://in.pinterest.com/Salony26mahajan/" target="_blank">
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v15/icons/pinterest.svg" alt="Pinterest" width="30"/>
+    <img src="https://cdn-icons-png.flaticon.com/512/174/174863.png" alt="Pinterest" width="35"/>
   </a> &nbsp;&nbsp;
+
   <a href="https://cuvette.tech/app/student/profile/65f5da290bbbb3fa0aaf4a74" target="_blank">
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v15/icons/cuvette.svg" alt="Cuvette" width="30"/>
+    <img src="https://static.cuvette.tech/logo-dark.svg" alt="Cuvette" width="35"/>
   </a> &nbsp;&nbsp;
+
   <a href="https://unstop.com/u/saloni_007" target="_blank">
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v15/icons/unstop.svg" alt="Unstop" width="30"/>
+    <img src="https://assets.unstop.com/website/production/images/favicon.png" alt="Unstop" width="35"/>
   </a> &nbsp;&nbsp;
+
   <a href="mailto:saloni.mahajan99@gmail.com" target="_blank">
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v15/icons/gmail.svg" alt="Email" width="30"/>
+    <img src="https://cdn-icons-png.flaticon.com/512/732/732200.png" alt="Email" width="35"/>
   </a>
 </p>
-
 ---
 
 <p align="center">

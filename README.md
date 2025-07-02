@@ -5,7 +5,7 @@
     I vibe with <em>clean design</em>, <em>logical flow</em>, and building stuff that actually makes sense (and looks good too).<br>
     I bring both tech brains and a creative soul to the table💫 <br><br>
     <span style="font-style: italic;">Ps: Every bug has a story (and a fix!)</span><br>
-    <span style="font-style: italic;">Forever ready to code, collab, and cook up ideas that actually do something cool❤️</span>
+    <span style="font-style: italic;">Forever ready to code, collab, and cook up ideas that do something cool❤️</span>
   </p>
 </div>
 
@@ -83,5 +83,9 @@
 ###
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=salonii007&label=Profile%20views&color=ff69b4&style=flat" alt="salonii007" />
+  <img src="https://komarev.com/ghpvc/?username=salonii007&label=Profile%20Views&color=FFB6C1&style=flat-square" />
+</p>
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Quicksand&weight=500&size=24&duration=3000&pause=1000&color=D08CA0&center=true&vCenter=true&width=600&lines=Hope+my+profile+made+your+scroll+worth+it!🩷" alt="Typing SVG" />
 </p>
